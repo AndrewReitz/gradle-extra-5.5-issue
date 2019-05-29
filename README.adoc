@@ -1,0 +1,4 @@
+Demonstrates issue with resolving extras in an inline function
+
+This project works with gradle 5.4 (current wrapper version) but
+will fail with gradle 5.5-rc1
